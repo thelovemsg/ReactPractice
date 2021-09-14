@@ -1,2 +1,1 @@
-# myproject
-# react-practice
+# ReactPractice
