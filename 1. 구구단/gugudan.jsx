@@ -7,7 +7,6 @@ const Gugudan = () =>{
     // 변수
     //
     const [first, setFirst] =useState(Math.ceil(Math.random() *9 ));
-    //const [first, setFirst] = React.useState(Math.ceil(Math.random() *9 ));
     const [second, setSecond] = useState(Math.ceil(Math.random() *9 ));
     const [value, setValue] = useState('');
     const [result, setResult] = useState('');
